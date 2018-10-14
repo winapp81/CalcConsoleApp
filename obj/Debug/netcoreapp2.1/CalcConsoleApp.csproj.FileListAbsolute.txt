@@ -1,0 +1,11 @@
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\bin\Debug\netcoreapp2.1\CalcConsoleApp.deps.json
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\bin\Debug\netcoreapp2.1\CalcConsoleApp.runtimeconfig.json
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\bin\Debug\netcoreapp2.1\CalcConsoleApp.runtimeconfig.dev.json
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\bin\Debug\netcoreapp2.1\CalcConsoleApp.dll
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\bin\Debug\netcoreapp2.1\CalcConsoleApp.pdb
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\obj\Debug\netcoreapp2.1\CalcConsoleApp.csprojAssemblyReference.cache
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\obj\Debug\netcoreapp2.1\CalcConsoleApp.csproj.CoreCompileInputs.cache
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\obj\Debug\netcoreapp2.1\CalcConsoleApp.AssemblyInfoInputs.cache
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\obj\Debug\netcoreapp2.1\CalcConsoleApp.AssemblyInfo.cs
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\obj\Debug\netcoreapp2.1\CalcConsoleApp.dll
+D:\VS\CalConsoleApp\CalcConsoleApp\CalcConsoleApp\obj\Debug\netcoreapp2.1\CalcConsoleApp.pdb
